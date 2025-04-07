@@ -1,0 +1,5 @@
+framework module LWPrint {
+    umbrella header "Umbrella.h"
+    export *
+    module * { export * }
+}
